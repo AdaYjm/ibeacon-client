@@ -5,6 +5,8 @@ ibeacon-client
 
 ![preview](screenshot/preview.gif)
 
+![ibeacon](screenshot/ibeacon.png)
+
 ## License
 
 The MIT License (MIT)
